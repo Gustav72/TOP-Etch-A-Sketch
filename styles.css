@@ -29,7 +29,7 @@ h1, h3 {
     flex: 1 0 auto; 
     height: auto;
     background-color: rgba(150, 150, 150, 0.5);
-    transition: 0s 5s;
+    transition: 0s 10s;
 }
 
 .square::before {
