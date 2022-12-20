@@ -18,6 +18,6 @@ The Landing Page project from [The Odin Project](https://www.theodinproject.com/
 
 This project exhibits DOM manipulation with JavaScript. The user can input there desired dimensions of the drawing grid. JavaScript is used to generate HTML elements after user input. This application mimics the classic Etch A Sketch toy but with automatic erasing.
 
-![Screenshot of User Interface](./images/Screenshot.png)
+![Screenshot of User Interface](./Screenshot.png)
 
 Thank You for taking the time to look at my work!
